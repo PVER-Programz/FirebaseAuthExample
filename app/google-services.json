@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867221957538",
+    "project_id": "fbstudiotest",
+    "storage_bucket": "fbstudiotest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867221957538:android:c43fbf95f60ceafee6e0fb",
+        "android_client_info": {
+          "package_name": "com.pver.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHieLjUy_CXgFIj8hmSTxkjiDWlkXx_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867221957538:android:09e3f768790d7cb8e6e0fb",
+        "android_client_info": {
+          "package_name": "com.pver.logintest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHieLjUy_CXgFIj8hmSTxkjiDWlkXx_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
